@@ -1,2 +1,10 @@
-# Jenkins-ci-cd-pipeline-app24
-Jenkins-ci-cd-pipeline-app24
+Deploying the store application with Terraform, Kubernetes, and Jenkins CICD.
+
+
+
+
+
+
+
+
+
